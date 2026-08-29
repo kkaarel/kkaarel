@@ -38,9 +38,9 @@
 - 🤖 **Azure AI Stack & Intelligent Applications**: Implementing enterprise AI solutions using **Azure OpenAI Service**, **Azure AI Search**, RAG architectures, and cognitive tooling.
 - 📐 **Data Modelling & Modern Lakehouse**: Designing high-throughput, analytics-ready data models (Dimensional Star Schema, Data Vault, Medallion Lakehouse) across **Snowflake**, **Databricks**, and **Azure**.
 - ☁️ **Infrastructure as Code (IaC)**: Architecting repeatable, secure multi-environment cloud foundations using **Terraform** and **Bicep**.
-- 🔌 **Enterprise Integrations & Event-Driven Pipelines**: Constructing resilient, decoupled integration layers using **Azure API Management**, **Event Hubs / Service Bus**, **Azure Data Factory**, and **Logic Apps**.
+- 🔌 **Enterprise Integrations & Event-Driven Pipelines**: Constructing resilient, decoupled integration layers using **Azure API Management**, **Event Hubs / Service Bus**, **Azure Functions**, **Container Apps**, and **Logic Apps**.
 - 🚀 **DevOps, DataOps & CI/CD Governance**: Implementing automated testing, release pipelines, and infrastructure deployments using **Azure DevOps Pipelines**, **GitHub Actions**, and **Docker**.
-- 📊 **Custom Data Apps & Telemetry Dashboards**: Rapidly delivering internal data apps and real-time monitoring tools with **Python**, **Streamlit**, **FastAPI**, and **Logic Apps**.
+- 📊 **Custom Data Apps & Microservices**: Rapidly delivering internal data tools and containerized apps with **Python**, **Streamlit**, **FastAPI**, **Azure Container Apps**, and **Serverless Functions**.
 
 ---
 
@@ -50,6 +50,8 @@
   <strong>Cloud, Data & AI Stack</strong><br/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" alt="Azure Functions" />
+  <img src="https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Container Apps" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/ADE-004B87?style=for-the-badge&logo=databricks&logoColor=white" alt="ADE" />
