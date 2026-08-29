@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there! 👋 I'm Kaarel Kõrvemaa
+  # Kaarel Kõrvemaa
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Microsoft+Architect+%26+Cloud+Specialist;Azure+AI+Stack+%7C+OpenAI+%2B+Copilot;Data+Modelling+%26+Terraform+IaC;Enterprise+Integrations+%26+DevOps;Python+%26+Streamlit+Developer" alt="Typing SVG" />
@@ -13,38 +13,38 @@
   <p align="center">
     <a href="https://kkaarel.com"><img src="https://img.shields.io/badge/Website-kkaarel.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.linkedin.com/in/korvemaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://img.shields.io/badge/Location-Estonia%20🇪🇪-lightgrey?style=for-the-badge" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Estonia-lightgrey?style=for-the-badge" alt="Location" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🏢 **Role**: Microsoft Architect / Cloud, Data & AI Specialist
-- 📍 **Based in**: Estonia 🇪🇪
-- 💡 **Focus Areas**: Enterprise Cloud Architecture, Azure AI Stack, Data Modelling, Terraform IaC & Integrations
-- 🌐 **Personal Website**: [kkaarel.com](https://kkaarel.com)
-- 💼 **LinkedIn**: [in/korvemaa](https://www.linkedin.com/in/korvemaa/)
-- ⚡ **Fun Fact**: Passionate about combining robust enterprise cloud architectures with rapid Python & Streamlit prototypes!
-
----
-
-### 🏢 Key Architecture & Engineering Focus (Enterprise & Private Work)
-
-> *Most of my production architectural systems and customer solutions reside in private enterprise repositories. Key domains and solutions I design & build include:*
-
-- 🤖 **Azure AI Stack & Intelligent Applications**: Implementing enterprise AI solutions using **Azure OpenAI Service**, **Azure AI Search**, RAG architectures, and cognitive tooling.
-- 📐 **Data Modelling & Modern Lakehouse**: Designing high-throughput, analytics-ready data models (Dimensional Star Schema, Data Vault, Medallion Lakehouse) across **Snowflake**, **Databricks**, and **Azure**.
-- ☁️ **Infrastructure as Code (IaC)**: Architecting repeatable, secure multi-environment cloud foundations using **Terraform** and **Bicep**.
-- 🔌 **Enterprise Integrations & Event-Driven Pipelines**: Constructing resilient, decoupled integration layers using **Azure API Management**, **Event Hubs / Service Bus**, **Azure Functions**, **Container Apps**, and **Logic Apps**.
-- 🚀 **DevOps, DataOps & CI/CD Governance**: Implementing automated testing, release pipelines, and infrastructure deployments using **Azure DevOps Pipelines**, **GitHub Actions**, and **Docker**.
-- 📊 **Custom Data Apps & Microservices**: Rapidly delivering internal data tools and containerized apps with **Python**, **Streamlit**, **FastAPI**, **Azure Container Apps**, and **Serverless Functions**.
+- **Role**: Microsoft Architect / Cloud, Data & AI Specialist
+- **Based in**: Estonia
+- **Focus Areas**: Enterprise Cloud Architecture, Azure AI Stack, Data Modelling, Terraform IaC & Integrations
+- **Personal Website**: [kkaarel.com](https://kkaarel.com)
+- **LinkedIn**: [in/korvemaa](https://www.linkedin.com/in/korvemaa/)
+- **Interests**: Passionate about combining robust enterprise cloud architectures with rapid Python & Streamlit prototypes.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Key Architecture & Engineering Focus (Enterprise & Private Work)
+
+> *Most production architectural systems and customer solutions reside in private enterprise repositories. Key domains and solutions designed and built include:*
+
+- **Azure AI Stack & Intelligent Applications**: Implementing enterprise AI solutions using **Azure OpenAI Service**, **Azure AI Search**, RAG architectures, and cognitive tooling.
+- **Data Modelling & Modern Lakehouse**: Designing high-throughput, analytics-ready data models (Dimensional Star Schema, Data Vault, Medallion Lakehouse) across **Snowflake**, **Databricks**, and **Azure**.
+- **Infrastructure as Code (IaC)**: Architecting repeatable, secure multi-environment cloud foundations using **Terraform** and **Bicep**.
+- **Enterprise Integrations & Event-Driven Pipelines**: Constructing resilient, decoupled integration layers using **Azure API Management**, **Event Hubs / Service Bus**, **Azure Functions**, **Container Apps**, and **Logic Apps**.
+- **DevOps, DataOps & CI/CD Governance**: Implementing automated testing, release pipelines, and infrastructure deployments using **Azure DevOps Pipelines**, **GitHub Actions**, and **Docker**.
+- **Custom Data Apps & Microservices**: Rapidly delivering internal data tools and containerized apps with **Python**, **Streamlit**, **FastAPI**, **Azure Container Apps**, and **Serverless Functions**.
+
+---
+
+### Tech Stack & Skills
 
 <p align="left">
   <strong>Cloud, Data & AI Stack</strong><br/>
@@ -81,7 +81,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkaarel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaarel's GitHub Stats" height="165" />
@@ -95,5 +95,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/kkaarel">Kaarel Kõrvemaa</a></sub>
+  <sub>Built by <a href="https://github.com/kkaarel">Kaarel Kõrvemaa</a></sub>
 </div>
