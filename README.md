@@ -36,11 +36,11 @@
 > *Most of my production architectural systems and customer solutions reside in private enterprise repositories. Key domains and solutions I design & build include:*
 
 - 🤖 **Azure AI Stack & Intelligent Applications**: Implementing enterprise AI solutions using **Azure OpenAI Service**, **Azure AI Search**, RAG architectures, and cognitive tooling.
-- 📐 **Data Modelling & Modern Lakehouse**: Designing high-throughput, analytics-ready data models (Dimensional Star Schema, Medallion Lakehouse) across **Azure**, **Databricks**, and **Snowflake**.
+- 📐 **Data Modelling & Modern Lakehouse (ADE)**: Designing high-throughput, analytics-ready data models (Data Vault 2.0, Dimensional Star Schema, Medallion Lakehouse) automated with **Agile Data Engine (ADE)** across **Snowflake**, **Databricks**, and **Azure**.
 - ☁️ **Infrastructure as Code (IaC)**: Architecting repeatable, secure multi-environment cloud foundations using **Terraform** and **Bicep**.
 - 🔌 **Enterprise Integrations & Event-Driven Pipelines**: Constructing resilient, decoupled integration layers using **Azure API Management**, **Event Hubs / Service Bus**, **Azure Data Factory**, and **Logic Apps**.
-- 🚀 **DevOps & CI/CD Governance**: Implementing automated testing, release pipelines, and infrastructure deployments using **Azure DevOps Pipelines**, **GitHub Actions**, and **Docker**.
-- 📊 **Custom Data Apps & Observability Dashboards**: Rapidly delivering internal data apps and real-time monitoring tools with **Python**, **Streamlit**, **FastAPI**, and **Azure Data Explorer (ADE)**.
+- 🚀 **DevOps, DataOps & CI/CD Governance**: Implementing automated testing, release pipelines, and infrastructure deployments using **Azure DevOps Pipelines**, **GitHub Actions**, and **Docker**.
+- 📊 **Custom Data Apps & Telemetry Dashboards**: Rapidly delivering internal data apps and real-time monitoring tools with **Python**, **Streamlit**, **FastAPI**, and **Logic Apps**.
 
 ---
 
@@ -49,11 +49,11 @@
 <p align="left">
   <strong>Cloud, Data & AI Stack</strong><br/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Agile_Data_Engine_(ADE)-004B87?style=for-the-badge&logo=databricks&logoColor=white" alt="Agile Data Engine" />
   <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ADF" />
-  <img src="https://img.shields.io/badge/Azure_Data_Explorer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ADE" />
   <img src="https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=azureartifacts&logoColor=white" alt="Logic Apps" />
 </p>
 
