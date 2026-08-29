@@ -35,7 +35,7 @@
 
 > *Most production architectural systems and customer solutions reside in private enterprise repositories. Key domains and solutions designed and built include:*
 
-- **Azure AI Stack & Intelligent Applications**: Implementing enterprise AI solutions using **Azure OpenAI Service**, **Azure AI Search**, RAG architectures, and cognitive tooling.
+- **Azure AI Stack & Intelligent Applications**: Implementing enterprise AI solutions using **Azure OpenAI Service**, **Azure AI Search**, and Azure Cognitive Services.
 - **Data Modelling & Modern Lakehouse**: Designing high-throughput, analytics-ready data models (Dimensional Star Schema, Data Vault, Medallion Lakehouse) across **Snowflake**, **Databricks**, and **Azure**.
 - **Infrastructure as Code (IaC)**: Architecting repeatable, secure multi-environment cloud foundations using **Terraform** and **Bicep**.
 - **Enterprise Integrations & Event-Driven Pipelines**: Constructing resilient, decoupled integration layers using **Azure API Management**, **Event Hubs / Service Bus**, **Azure Functions**, **Container Apps**, and **Logic Apps**.
