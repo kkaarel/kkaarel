@@ -31,6 +31,18 @@
 
 ---
 
+### 🏢 Key Architecture & Engineering Focus (Enterprise & Private Work)
+
+> *Most of my production architectural systems and customer solutions reside in private enterprise repositories. Key domains and solutions I design & build include:*
+
+- 🏛️ **Modern Data Lakehouse & Cloud Platforms**: End-to-end architectures leveraging **Microsoft Azure**, **Databricks**, and **Snowflake** to handle scalable data storage, transformation, and enterprise analytics.
+- ⚡ **Real-Time Telemetry & Monitoring Infrastructure**: Observability solutions integrating **Azure Data Explorer (Kusto)**, **Logic Apps**, and alert automations for mission-critical cloud health.
+- 📊 **Custom Data Apps & Internal Dashboards**: Fast-to-production data portals and interactive tools built with **Python**, **Streamlit**, and **FastAPI** to empower decision-making.
+- 🔄 **Resilient ETL/ELT & Event-Driven Pipelines**: Complex data ingestion workflows using **Azure Data Factory**, API integrations, and message-driven triggers.
+- 🔐 **Cloud Governance, Security & DevOps**: Robust RBAC, Managed Identities, and automated CI/CD deployment pipelines using **GitHub Actions** and **Docker**.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
@@ -39,6 +51,7 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ADF" />
+  <img src="https://img.shields.io/badge/Azure_Data_Explorer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="ADE" />
   <img src="https://img.shields.io/badge/Logic_Apps-0078D4?style=for-the-badge&logo=azureartifacts&logoColor=white" alt="Logic Apps" />
 </p>
 
