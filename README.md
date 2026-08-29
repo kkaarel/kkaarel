@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    <strong>Technology enthusiast passionate about turning data and AI into scalable enterprise architecture.</strong>
+    <strong>Designing scalable Microsoft cloud platforms and modern data architectures that transform complex data landscapes into high-performance enterprise solutions.</strong>
   </p>
 
   <p align="center">
@@ -27,7 +27,7 @@
 - **Focus Areas**: Enterprise Cloud Architecture, Azure AI Stack, Data Modelling, Terraform IaC & Integrations
 - **Personal Website**: [kkaarel.com](https://kkaarel.com)
 - **LinkedIn**: [in/korvemaa](https://www.linkedin.com/in/korvemaa/)
-- **Interests**: Passionate about combining robust enterprise cloud architectures with rapid Python & Streamlit prototypes.
+- **Mission**: Designing scalable Microsoft cloud platforms and modern data architectures that transform complex data landscapes into high-performance enterprise solutions.
 
 ---
 
