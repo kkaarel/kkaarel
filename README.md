@@ -12,7 +12,7 @@
 
   <p align="center">
     <a href="https://kkaarel.com"><img src="https://img.shields.io/badge/Website-kkaarel.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <img src="https://img.shields.io/badge/Location-Finland%20🇫🇮-lightgrey?style=for-the-badge" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Estonia%20🇪🇪-lightgrey?style=for-the-badge" alt="Location" />
   </p>
 
 </div>
@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 - 🏢 **Role**: Microsoft Architect / Cloud & Data Specialist
-- 📍 **Based in**: Finland
+- 📍 **Based in**: Estonia 🇪🇪
 - 💡 **Focus Areas**: Scalable Cloud Architectures, Data Engineering & Analytics, App Prototyping
 - 🌐 **Personal Website**: [kkaarel.com](https://kkaarel.com)
 - ⚡ **Fun Fact**: Always experimenting with modern data tools, cloud automation, and rapid UI dashboards with Streamlit!
