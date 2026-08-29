@@ -12,6 +12,7 @@
 
   <p align="center">
     <a href="https://kkaarel.com"><img src="https://img.shields.io/badge/Website-kkaarel.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/korvemaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Location-Estonia%20🇪🇪-lightgrey?style=for-the-badge" alt="Location" />
   </p>
 
@@ -25,6 +26,7 @@
 - 📍 **Based in**: Estonia 🇪🇪
 - 💡 **Focus Areas**: Scalable Cloud Architectures, Data Engineering & Analytics, App Prototyping
 - 🌐 **Personal Website**: [kkaarel.com](https://kkaarel.com)
+- 💼 **LinkedIn**: [in/korvemaa](https://www.linkedin.com/in/korvemaa/)
 - ⚡ **Fun Fact**: Always experimenting with modern data tools, cloud automation, and rapid UI dashboards with Streamlit!
 
 ---
