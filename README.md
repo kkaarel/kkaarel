@@ -62,12 +62,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkaarel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaarel's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaarel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkaarel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaarel's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkaarel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkaarel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kkaarel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
